@@ -1,0 +1,3 @@
+com.rajit.contacts_content_provider.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

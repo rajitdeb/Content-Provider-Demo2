@@ -1,0 +1,5 @@
+com.rajit.contacts_content_provider.test.app-core-1.6.1-0 C:\Users\rehan\.gradle\caches\transforms-4\834a88e00d1de61fe5032819b604aaea\transformed\core-1.6.1\res
+com.rajit.contacts_content_provider.test.app-androidTest-1 D:\StudioProjects\Contacts-Content-Provider\app\build\generated\res\resValues\androidTest\debug
+com.rajit.contacts_content_provider.test.app-mergeDebugAndroidTestResources-2 D:\StudioProjects\Contacts-Content-Provider\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.rajit.contacts_content_provider.test.app-mergeDebugAndroidTestResources-3 D:\StudioProjects\Contacts-Content-Provider\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.rajit.contacts_content_provider.test.app-debugAndroidTest-4 D:\StudioProjects\Contacts-Content-Provider\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/contactPhotoIv"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:contentDescription="contact photo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:paddingStart="12dp"
+        app:layout_constraintBottom_toBottomOf="@+id/contactPhotoIv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/contactPhotoIv"
+        app:layout_constraintTop_toTopOf="@+id/contactPhotoIv">
+
+        <TextView
+            android:id="@+id/contactNameTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:ellipsize="marquee"
+            android:textStyle="bold"
+            tools:text="Anirban Sebaguide"/>
+
+        <TextView
+            android:id="@+id/phoneNumberTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="+91 9859222000" />
+
+        <ImageView
+            android:id="@+id/copyIv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_copy"
+            android:layout_gravity="end"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
