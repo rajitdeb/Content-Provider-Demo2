@@ -1,4 +1,4 @@
-#Thu Aug 15 14:59:00 IST 2024
+#Thu Aug 15 15:03:53 IST 2024
 base.0=D\:\\StudioProjects\\Contacts-Content-Provider\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\StudioProjects\\Contacts-Content-Provider\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\StudioProjects\\Contacts-Content-Provider\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
